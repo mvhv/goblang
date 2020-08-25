@@ -1,2 +1,2 @@
 # goblang
-Goblang, a bad language.
+A simple experimental programming language written in Go.
