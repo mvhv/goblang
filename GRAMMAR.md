@@ -1,5 +1,5 @@
 Goblang synax specification in Backus-Naur Form
-
+```
 <source-unit> ::= // source code document after processing
 
 // need to define scope structure
@@ -36,3 +36,4 @@ Goblang synax specification in Backus-Naur Form
                    | <whitespace>
 
 <identifier> ::= 
+```
